@@ -25,7 +25,7 @@ If you have already a preferred editor and that you know how to use it, no need 
 You can use [git](https://git-scm.com/) to clone this repository somewhere on your computer.
 
 ```
-git clone https://github.com/robustcircuit/now-workshop#now-workshop
+git clone https://github.com/robustcircuit/now-workshop
 ```
 You can also use directly download and unzip the folder on your computer (green button Code > Download Zip)
 
