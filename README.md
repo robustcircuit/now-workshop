@@ -53,8 +53,10 @@ Open a new terminal (Ctrl+Shift+ç) and copy the git command described above
 
 If it is not done already, open a terminal and navigate to the 'server' subfolder of the repository you've just cloned/unzip.
 ```
-cd C:\somewhere_on_your_computer\now-workshop\server
+cd C:\Documents\now-workshop\server
 ```
+Note: To find the path of your folder, check its location under its properties.
+
 Since you have already installed NodeJS, you can readily run npm commands in the terminal. Just type:
 ```
 npm install
