@@ -22,12 +22,25 @@ If you have already a preferred editor and that you know how to use it, no need 
 
 ### Clone or download this folder
 
-You can use [git](https://git-scm.com/) to clone this repository somewhere on your computer.  If you use VisualCode, it is straightforward to open a terminal (one of the menus at the top), `cd` to "somewhere_on_your_computer" and type:
+Clone the following repository somewhere on your computer by using 
 ```
 git clone https://github.com/robustcircuit/now-workshop
 ```
-If you are in VScode, you can then open this new folder called `now-workshop` (File -> Open Folder).
-Otherwise, you can also use directly download and unzip the folder on your computer (green button Code > Download Zip).
+
+Method 1: Download
+Go to https://github.com/robustcircuit/now-workshop
+Directly download and unzip the folder on your computer (green button Code > Download Zip)
+
+Method 2: Using Git
+Go to [git](https://git-scm.com/)
+Open Git Bash and decide the location of the folder by using the command cd (E.g. cd Documents)
+Copy the git command described above
+
+Method 3: Using Visual Studio Code
+Go to [https://code.visualstudio.com/](https://code.visualstudio.com/) 
+Open a new terminal (Ctrl+Shift+ç)
+Copy the git command described above
+
 
 ### Install the dependencies
 
