@@ -42,7 +42,7 @@ Download [Git Bash](https://git-scm.com/)
 Decide the location of the folder by using the command cd (E.g. cd Documents) and copy the git command described above
 
 
-##### Method 3: Using Visual Studio Code
+##### Method 3: Using Visual Studio Code (and git!)
 
 Go to [https://code.visualstudio.com/](https://code.visualstudio.com/) 
 
