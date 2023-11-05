@@ -22,22 +22,20 @@ If you have already a preferred editor and that you know how to use it, no need 
 
 ### Clone or download this folder
 
-You can use [git](https://git-scm.com/) to clone this repository somewhere on your computer.
-
+You can use [git](https://git-scm.com/) to clone this repository somewhere on your computer.  If you use VisualCode, it is straightforward to open a terminal (one of the menus at the top), `cd` to "somewhere_on_your_computer" and type:
 ```
 git clone https://github.com/robustcircuit/now-workshop
 ```
-You can also use directly download and unzip the folder on your computer (green button Code > Download Zip)
+If you are in VScode, you can then open this new folder called `now-workshop` (File -> Open Folder).
+Otherwise, you can also use directly download and unzip the folder on your computer (green button Code > Download Zip).
 
 ### Install the dependencies
 
-Open a terminal and navigate to the 'server' subfolder of the repository you've just cloned/unzip.
-
+If it is not done already, open a terminal and navigate to the 'server' subfolder of the repository you've just cloned/unzip.
 ```
 cd C:\somewhere_on_your_computer\now-workshop\server
 ```
-Since you have installed NodeJS, you can run npm commands in the terminal. Just type:
-
+Since you have already installed NodeJS, you can readily run npm commands in the terminal. Just type:
 ```
 npm install
 ```
