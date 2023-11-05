@@ -28,14 +28,14 @@ git clone https://github.com/robustcircuit/now-workshop
 ```
 
 
-## Method 1: Download
+##### Method 1: Download
 
 Go to https://github.com/robustcircuit/now-workshop
 
 Directly download and unzip the folder on your computer (green button Code > Download Zip)
 
 
-## Method 2: Using Git
+##### Method 2: Using Git
 
 Go to [git](https://git-scm.com/)
 
@@ -44,7 +44,7 @@ Open Git Bash and decide the location of the folder by using the command cd (E.g
 Copy the git command described above
 
 
-## Method 3: Using Visual Studio Code
+##### Method 3: Using Visual Studio Code
 
 Go to [https://code.visualstudio.com/](https://code.visualstudio.com/) 
 
