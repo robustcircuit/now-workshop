@@ -75,7 +75,7 @@ In principle, you should already be able to run the webserver and see the experi
 ```
 node app
 ```
-And by visiting the local address `http://localhost:3000` from your browser.
+And by visiting the local address `http://localhost:3000/expNOW` from your browser.
 
 If something is not right, it may be a good idea to poke us at <a href="mailto:robustcircuit.lda@gmail.com">robustcircuit.lda@gmail.com<a>
 
