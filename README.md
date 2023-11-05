@@ -37,20 +37,16 @@ Directly download and unzip the folder on your computer (green button Code > Dow
 
 ##### Method 2: Using Git
 
-Go to [git](https://git-scm.com/)
+Download [Git Bash](https://git-scm.com/)
 
-Open Git Bash and decide the location of the folder by using the command cd (E.g. cd Documents)
-
-Copy the git command described above
+Decide the location of the folder by using the command cd (E.g. cd Documents) and copy the git command described above
 
 
 ##### Method 3: Using Visual Studio Code
 
 Go to [https://code.visualstudio.com/](https://code.visualstudio.com/) 
 
-Open a new terminal (Ctrl+Shift+ç)
-
-Copy the git command described above
+Open a new terminal (Ctrl+Shift+ç) and copy the git command described above
 
 
 ### Install the dependencies
