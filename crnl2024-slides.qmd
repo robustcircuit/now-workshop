@@ -1,5 +1,5 @@
 ---
-title: "Web experiments - Hands' on session CRNL 2024"
+title: "Neurograd Day 1"
 author: "Romain Ligneul"
 format: 
   revealjs:
