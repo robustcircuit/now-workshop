@@ -1,0 +1,25 @@
+.jspsych-btn{
+  margin-top:10%;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  background-color: rgb(217, 217, 217);
+}
+
+.jspsych-content {
+  max-width: 80%;
+}
+
+.jspsych-display-element{
+  background-color: rgb(226, 226, 226);
+}
+
+/* [SOLUTION CSS: make some of the buttons black bg and white letters, wider with round corners
+and bigger letters */
+.jspsych-html-button-response-button .jspsych-btn {
+  color:white;
+  background-color: rgb(81, 81, 81);
+  width: 150%;
+  margin-left: -25%;
+  border-radius: 10px;
+  font-size: 1.2rem;
+}
+

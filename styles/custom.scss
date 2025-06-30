@@ -1,0 +1,27 @@
+/*-- scss:defaults --*/
+
+$light-bg-code-color: #ebebeb !default;
+
+/*-- scss:rules --*/
+
+.reveal .slides {
+  width: 95%;
+  height: 95%
+}
+.reveal .slide .level2 p{
+  font-size: 1.8rem;
+}
+
+.reveal[data-navigation-mode="linear"] .title-slide h1 h1{
+  font-size: 2rem;
+}
+
+.reveal h2{
+  font-size: 3.5rem;
+  margin-bottom: 30px;
+}
+
+.reveal .slide .sourceCode code{
+  background-color: $light-bg-code-color;
+  max-height: 700px;
+}
